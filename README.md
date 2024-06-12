@@ -21,8 +21,8 @@ A Badge System API é uma aplicação para gerenciamento de emblemas, onde os us
 ## 📁 Configuração do Projeto
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/cidadealtarp/badge-system-api.git
-   cd badge-system-api
+   git clone https://github.com/Yuz1n/badge-api.git
+   cd badge-api
 2. **Instale as dependências:**
    ```bash
     npm install
